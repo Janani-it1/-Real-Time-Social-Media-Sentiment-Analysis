@@ -53,7 +53,7 @@ ACCESS_TOKEN_SECRET = 'your_access_token_secret'
 4. Run the Sentiment Analysis
 Run the Python script to fetch real-time tweets and perform sentiment analysis:
 
-python sentiment_analysis.py
+Real-Time Social Media Sentiment Analysis.ipynb
 
 5. Visualize Results
 The sentiment analysis results will be printed as text, displaying the percentage of positive, negative, and neutral tweets. You can also visualize the sentiment distribution using the generated pie charts.
